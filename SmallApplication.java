@@ -4,18 +4,15 @@
 					 while(run)
 					 {
 						  
-					 Please select any option from the below list:- 
-					 
+					 Please select any option from the below list:- 					 
 					 1. Check Even Odd
 					 2. Check Prime
 					 3. Print the Factorial
 					 4. Print the Table
 					 5. Get quote on based of Weekday
-					 6. Exit
-					 	 
+					 6. Exit					 	 
 					 Enter your option:- 
-					 int x= nextInt();
-									 
+					 int x= nextInt();									 
 					 if(x==6)
 					 {
 						//break;
